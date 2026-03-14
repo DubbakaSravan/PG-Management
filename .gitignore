@@ -6,7 +6,9 @@ node_modules/
 # Next.js build output
 .next/
 out/
-
+node_modules/
+.next/
+.env.local
 # Environment variables — NEVER push these (contains your secrets!)
 .env
 .env.local
